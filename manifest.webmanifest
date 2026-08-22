@@ -1,1 +1,1 @@
-{"name":"Vehicle Vault Connect","short_name":"Vehicle Vault","start_url":"./","display":"standalone","background_color":"#f7f9fc","theme_color":"#0c1424"}
+{"name":"Vehicle Vault Connect","short_name":"Vehicle Vault","start_url":"./","display":"standalone","background_color":"#f7f9fc","theme_color":"#0c1424","icons":[{"src":"assets/vehicle-vault-icon.png","sizes":"696x696","type":"image/png","purpose":"any maskable"}]}
