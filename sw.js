@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vehicle-vault-v40';
+const CACHE_NAME = 'vehicle-vault-v41';
 const ROOT = new URL('./', self.registration.scope).href;
 const APP_SHELL = [ROOT, './index.html', './style.css', './app.js', './manifest.webmanifest', './assets/hero-suv.png', './assets/vehicle-vault-icon.png', './assets/default-vehicle-card-v2.png'].map(path => new URL(path, self.registration.scope).href);
 const APP_SHELL_URLS = new Set(APP_SHELL);
